@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
 using Domain.Intefaces;
 using Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -18,7 +19,7 @@ namespace Infrastructure.Repositories
 
         public async Task<IEnumerable<Categorias>> GetAllAsync()
         {
-            return await _context.Categoria
+            return await _context.Categorias
                                  .AsNoTracking()
                                  .ToListAsync();
         }

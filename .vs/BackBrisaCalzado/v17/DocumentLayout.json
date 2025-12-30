@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\backbrisacalzado\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|solutionrelative:backbrisacalzado\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\backbrisacalzado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|solutionrelative:backbrisacalzado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\infrastructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\domain\\intefaces\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|solutionrelative:domain\\intefaces\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\domain\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\backbrisacalzado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|solutionrelative:backbrisacalzado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD13A240-5932-41D0-871F-56B18B4267B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\domain\\intefaces\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|solutionrelative:domain\\intefaces\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F49CE5C-795A-432F-A84C-95BF502A1499}|Application\\Application.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\application\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{3F49CE5C-795A-432F-A84C-95BF502A1499}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\backbrisacalzado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2338770-CE1E-4177-9D1B-149220197649}|BackBrisaCalzado\\Presentation.csproj|solutionrelative:backbrisacalzado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|c:\\users\\santi\\desktop\\bienvenidos a la tup\\programacion lv\\c#\\backbrisacalzado\\domain\\intefaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BADC9F3-89C2-4423-9846-8562805B427F}|Domain\\Domain.csproj|solutionrelative:domain\\intefaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,68 +118,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\BackBrisaCalzado\\appsettings.json",
+              "RelativeDocumentMoniker": "BackBrisaCalzado\\appsettings.json",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\BackBrisaCalzado\\appsettings.json",
+              "RelativeToolTip": "BackBrisaCalzado\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T22:12:11.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T21:46:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\BackBrisaCalzado\\Presentation.csproj",
+              "RelativeDocumentMoniker": "BackBrisaCalzado\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\BackBrisaCalzado\\Presentation.csproj",
+              "RelativeToolTip": "BackBrisaCalzado\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T21:52:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Categorias.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Domain\\Entities\\Categorias.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Categorias.cs",
               "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Domain\\Entities\\Categorias.cs",
               "RelativeToolTip": "Domain\\Entities\\Categorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:19:20.88Z"
+              "WhenOpened": "2025-12-29T19:19:20.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:14:09.208Z"
+              "WhenOpened": "2025-12-29T19:14:09.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductosRepository.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Repositories\\ProductosRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductosRepository.cs",
               "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Repositories\\ProductosRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\ProductosRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswE4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:13:29.395Z"
+              "WhenOpened": "2025-12-29T19:13:29.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "CategoriaRepository.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Repositories\\CategoriaRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CategoriaRepository.cs",
               "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Infrastructure\\Repositories\\CategoriaRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\CategoriaRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T19:12:37.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\BackBrisaCalzado\\Program.cs",
               "RelativeDocumentMoniker": "BackBrisaCalzado\\Program.cs",
               "ToolTip": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\BackBrisaCalzado\\Program.cs",
               "RelativeToolTip": "BackBrisaCalzado\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:03:56.541Z"
+              "WhenOpened": "2025-12-29T19:03:56.541Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CategoriaService.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Application\\Service\\CategoriaService.cs",
               "RelativeDocumentMoniker": "Application\\Service\\CategoriaService.cs",
@@ -175,11 +230,12 @@
               "RelativeToolTip": "Application\\Service\\CategoriaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:00:40.565Z"
+              "WhenOpened": "2025-12-29T19:00:40.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ProductoService.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Application\\Service\\ProductoService.cs",
               "RelativeDocumentMoniker": "Application\\Service\\ProductoService.cs",
@@ -187,11 +243,12 @@
               "RelativeToolTip": "Application\\Service\\ProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:51:57.199Z"
+              "WhenOpened": "2025-12-29T18:51:57.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ICategoriaService.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Application\\Interfaces\\ICategoriaService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\ICategoriaService.cs",
@@ -199,11 +256,12 @@
               "RelativeToolTip": "Application\\Interfaces\\ICategoriaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:48:33.29Z"
+              "WhenOpened": "2025-12-29T18:48:33.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "IProductoService.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Application\\Interfaces\\IProductoService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IProductoService.cs",
@@ -211,11 +269,12 @@
               "RelativeToolTip": "Application\\Interfaces\\IProductoService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:45:34.198Z"
+              "WhenOpened": "2025-12-29T18:45:34.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "IProductosRepository.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Domain\\Intefaces\\IProductosRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Intefaces\\IProductosRepository.cs",
@@ -223,11 +282,12 @@
               "RelativeToolTip": "Domain\\Intefaces\\IProductosRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:32:28.506Z"
+              "WhenOpened": "2025-12-29T18:32:28.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ICategoriaRepository.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Domain\\Intefaces\\ICategoriaRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Intefaces\\ICategoriaRepository.cs",
@@ -235,11 +295,12 @@
               "RelativeToolTip": "Domain\\Intefaces\\ICategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:29:20.229Z"
+              "WhenOpened": "2025-12-29T18:29:20.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\Bienvenidos a la TUP\\Programacion lV\\C#\\BackBrisaCalzado\\Domain\\Entities\\Productos.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Productos.cs",

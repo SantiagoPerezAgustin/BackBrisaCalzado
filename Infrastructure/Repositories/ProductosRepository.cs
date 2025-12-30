@@ -1,32 +1,35 @@
 ﻿using Domain.Entities;
 using Domain.Intefaces;
-using System;
+using Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Infrastructure.Repositories
 {
     public class ProductosRepository : IProductosRepository
     {
-        private readonly ApplicationDbContext _context;
-        public ProductosRepository(ApplicationDbContext context)
+        private readonly AppDbContext _context;
+        public ProductosRepository(AppDbContext context)
         {
             _context = context;
         }
 
         public async Task<IEnumerable<Productos>> GetAllAsync()
         {
-            return _context.Productos.ToList();
+            return await _context.Productos
+                                 .Include(p => p.Categoria)
+                                 .AsNoTracking()
+                                 .ToListAsync();
         }
 
         public async Task<Productos> GetByIdAsync(int id)
         {
-            return _context.Productos
-                .include(p => p.Categoria)
-                .AsNoTracking()
-                .FirstOrDefault(p => p.Id == id);
+            return await _context.Productos
+                                 .Include(p => p.Categoria)
+                                 .AsNoTracking()
+                                 .FirstOrDefaultAsync(p => p.Id == id);
         }
 
         public async Task<IEnumerable<Productos>> GetByCategoriaIdAsync(int categoriaId)
@@ -49,14 +52,15 @@ namespace Infrastructure.Repositories
                                  .Where(p => p.Nombre.ToLower().Contains(q) || p.Descripcion.ToLower().Contains(q))
                                  .AsNoTracking()
                                  .ToListAsync();
-
         }
+
         public async Task<Productos> AddAsync(Productos productos)
         {
             await _context.Productos.AddAsync(productos);
             await _context.SaveChangesAsync();
             return productos;
         }
+
         public async Task<Productos> UpdateAsync(Productos productos)
         {
             _context.Productos.Update(productos);
