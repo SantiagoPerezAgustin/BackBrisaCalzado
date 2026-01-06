@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "BackBrisaCalzado\Presentation.csproj", "{C2338770-CE1E-4177-9D1B-149220197649}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{3BADC9F3-89C2-4423-9846-8562805B427F}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C2338770-CE1E-4177-9D1B-149220197649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C2338770-CE1E-4177-9D1B-149220197649}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C2338770-CE1E-4177-9D1B-149220197649}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C2338770-CE1E-4177-9D1B-149220197649}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3BADC9F3-89C2-4423-9846-8562805B427F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3BADC9F3-89C2-4423-9846-8562805B427F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BADC9F3-89C2-4423-9846-8562805B427F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -40,7 +34,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{C2338770-CE1E-4177-9D1B-149220197649} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{3BADC9F3-89C2-4423-9846-8562805B427F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{3F49CE5C-795A-432F-A84C-95BF502A1499} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{CD13A240-5932-41D0-871F-56B18B4267B3} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
