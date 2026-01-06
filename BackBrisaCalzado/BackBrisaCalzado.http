@@ -1,6 +1,0 @@
-@BackBrisaCalzado_HostAddress = http://localhost:5263
-
-GET {{BackBrisaCalzado_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
