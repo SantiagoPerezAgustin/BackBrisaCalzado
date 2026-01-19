@@ -38,6 +38,20 @@ namespace Presentation.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
 
+            // Asegura que EF genere el Id (evita el error de IDENTITY_INSERT)
+            categoria.Id = 0;
+
+            // Si vienen productos anidados, limpia sus Ids/CategoriaId para nuevas inserciones
+            if (categoria.Productos != null)
+            {
+                foreach (var p in categoria.Productos)
+                {
+                    p.Id = 0;
+                    p.CategoriaId = 0;
+                    p.Categoria = null;
+                }
+            }
+
             var created = await _categoriaService.CreateCategoriaAsync(categoria);
             return CreatedAtAction(nameof(GetById), new { id = created.Id }, created);
         }

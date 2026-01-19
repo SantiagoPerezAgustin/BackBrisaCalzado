@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace Domain.Entities
 {
@@ -8,7 +9,8 @@ namespace Domain.Entities
         public string Nombre { get; set; } = null!;
         public string? Descripcion { get; set; }
 
-        // Relación: una categoría puede tener muchos productos
+        // Evita bucles de referencia en la serialización JSON
+        [JsonIgnore]
         public ICollection<Productos> Productos { get; set; } = new List<Productos>();
     }
 }
